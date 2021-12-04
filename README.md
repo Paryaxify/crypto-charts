@@ -24,7 +24,7 @@ $ make run
 <strong>Optional : </strong>Create a python virtual environment<br>
 
 ```
-$ python -m venv venv
+$ python3 -m venv venv
 $ source venv/bin/activate
 ```
 <li>
@@ -36,7 +36,7 @@ pip install -r requirements.txt
 <li>
 
 ```
-python app.py
+python3 app.py
 ```
 </li>
 <li>The default port is <strong>8000</strong>. Dashboard can be accessed at
@@ -62,7 +62,7 @@ pip install -r requirements.txt
 <li>
 
 ```
-python app.py
+python3 app.py
 ```
 </li>
 <li>The default port is <strong>8000</strong>. Dashboard can be accessed at
