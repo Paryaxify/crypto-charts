@@ -48,7 +48,7 @@ python3 app.py
 Haven't personally tested this in a Windows environment but manual installation steps are - 
 <ul>
 <li>Clone the repo in desired directory.</li>
-<strong>Optional : </strong>Create a python virtual environment<br>
+<strong>(not currently working) Optional : </strong>Create a python virtual environment<br>
 
 ```
 $ virtualenv venv
